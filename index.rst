@@ -3,20 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Support Center's documentation!
-==========================================
+Youthweb Support Center
+=======================
+
+Herzlich willkommen im Support Center von Youthweb!
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. include:: `/faq/index`
 
+Häufig gestellte Fragen
+-----------------------
 
-Indices and tables
-==================
-
-A list
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :doc:`/faq/gibt-es-eine-app`
+* :doc:`/faq/ist-yw-kostenlos`

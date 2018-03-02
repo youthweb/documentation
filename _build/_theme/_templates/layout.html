@@ -1,0 +1,10 @@
+{% extends "!layout.html" %}
+
+{% set html5_doctype = true %}
+{% set favicon = 'img/ywlogo_blau.png' %}
+{# set logo = 'img/ywlogo_blau.png' #}
+{% set docstitle = 'Youthweb Support Center' %}
+
+{% block rootrellink %}
+    <li class="nav-item nav-item-0"><a href="{{ pathto(master_doc) }}">Youthweb Support Center</a>{{ reldelim1 }}</li>
+{% endblock %}

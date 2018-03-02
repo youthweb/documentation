@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Support Center'
+project = u'Youthweb Support Center'
 copyright = u'2018, Youthweb e.V.'
 author = u'Youthweb e.V.'
 
@@ -78,13 +78,38 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'bizstyle'
+html_theme = 'classic'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    # 'rightsidebar': 'false',
+    'stickysidebar': 'false',
+    'collapsiblesidebar': 'true',
+    # 'externalrefs': 'false',
+    'footerbgcolor': '#ffffff',
+    # 'footertextcolor': '#ffffff',
+    'sidebarbgcolor': '#1c60a1',
+    # 'sidebarbtncolor': '#3c6e83',
+    # 'sidebartextcolor': '#ffffff',
+    'sidebarlinkcolor': '#B9D8FF',
+    'relbarbgcolor': '#333333',
+    # 'relbartextcolor': '#ffffff',
+    # 'relbarlinkcolor': '#ffffff',
+    'bgcolor': '#ffffff',
+    'textcolor': '#333333',
+    'headbgcolor': '#eeeeee',
+    # 'headtextcolor': '#20435c',
+    'headlinkcolor': '#1c60a1',
+    # 'linkcolor': '#1c60a1',
+    # 'visitedlinkcolor': '#355f7c',
+    # 'codebgcolor': '#eeffcc',
+    # 'codetextcolor': '#333333',
+    # 'bodyfont': 'sans-serif',
+    # 'headfont': '"Trebuchet MS", sans-serif',
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
