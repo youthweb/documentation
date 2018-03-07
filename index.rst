@@ -10,12 +10,5 @@ Herzlich willkommen im Support Center von Youthweb!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-.. include:: `/faq/index`
-
-Häufig gestellte Fragen
------------------------
-
-* :doc:`/faq/gibt-es-eine-app`
-* :doc:`/faq/ist-yw-kostenlos`
+   faq/index

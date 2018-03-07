@@ -2,7 +2,7 @@ Häufig gestellte Fragen
 =======================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    gibt-es-eine-app
    ist-yw-kostenlos

@@ -1,6 +1,9 @@
 Gibt es eine App?
 =================
 
+.. toctree::
+   :maxdepth: 2
+
 Noch nicht, aber wir arbeiten daran.
 
 Die Entwicklung einer App kostet viel Zeit und Mühe, wenn sie einen ähnlichen Funktionsumfang wie die Webseite haben soll. Diesen Aufwand können wir im Moment zeitlich und personell leider nicht stemmen.
