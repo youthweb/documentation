@@ -24,9 +24,9 @@ copyright = u'2018, Youthweb e.V.'
 author = u'Youthweb e.V.'
 
 # The short X.Y version
-version = u''
+version = u'1.0'
 # The full version, including alpha/beta/rc tags
-release = u''
+release = u'1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
