@@ -1,0 +1,2 @@
+Allgemeine Geschäftsbedingungen (AGB)
+=====================================
