@@ -85,30 +85,8 @@ pygments_style = 'sphinx'
 # documentation.
 #
 html_theme_options = {
-    # 'rightsidebar': 'false',
-    'stickysidebar': 'false',
-    'collapsiblesidebar': 'true',
-    # 'externalrefs': 'false',
-    'footerbgcolor': '#ffffff',
-    # 'footertextcolor': '#ffffff',
-    'sidebarbgcolor': '#1c60a1',
-    'sidebarbtncolor': '#1c60a1',
-    # 'sidebartextcolor': '#ffffff',
-    'sidebarlinkcolor': '#B9D8FF',
-    'relbarbgcolor': '#333333',
-    # 'relbartextcolor': '#ffffff',
-    # 'relbarlinkcolor': '#ffffff',
-    'bgcolor': '#ffffff',
-    'textcolor': '#333333',
-    'headbgcolor': '#eeeeee',
-    # 'headtextcolor': '#20435c',
-    'headlinkcolor': '#1c60a1',
-    # 'linkcolor': '#1c60a1',
-    # 'visitedlinkcolor': '#355f7c',
-    # 'codebgcolor': '#eeffcc',
-    # 'codetextcolor': '#333333',
-    # 'bodyfont': 'sans-serif',
-    # 'headfont': '"Trebuchet MS", sans-serif',
+    # 'key': 'value',
+    # 'true': 'false',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

@@ -61,25 +61,15 @@
 {%- block extrahead %}
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {% endblock %}
-  </head>
-  {%- block body_tag %}<body>{% endblock %}
-{%- block header %}
-<header id="header-full-top" class="d-none d-lg-block header-full">
-    <div class="container">
-        <div class="text-center">
-            <a href="{{ pathto(master_doc) }}">
-                <h1 class="header-full-title">
-                    <img src="{{ pathto('_static/img/yw-Schriftmarke-blau.png', 1) }}" alt="Youthweb e.V." title="Youthweb e.V." class="img-fluid">
-                </h1>
-            </a>
-            <h1>Support Center</h1>
-        </div>
-    </div>
-</header>
-<div class="container">
+</head>
+<body>
+  <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand d-lg-none" href="{{ pathto(master_doc) }}">
           <img src="{{ pathto('_static/img/ywlogo_blau.png', 1) }}" width="30" height="30" class="d-inline-block align-top" /> Support Center
+      </a>
+      <a class="navbar-brand d-none d-lg-block" href="{{ pathto(master_doc) }}">
+          <img src="{{ pathto('_static/img/ywlogo_blau.png', 1) }}" width="30" height="30" class="d-inline-block align-top" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -87,9 +77,6 @@
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="{{ pathto(master_doc) }}">Home <span class="sr-only">(current)</span></a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               FAQ
@@ -97,6 +84,7 @@
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="{{ pathto('faq/gibt-es-eine-app') }}">Gibt es eine App?</a>
               <a class="dropdown-item" href="{{ pathto('faq/ist-yw-kostenlos') }}">Ist Youthweb kostenlos?</a>
+              <a class="dropdown-item" href="{{ pathto('faq/wie-kann-ich-mithelfen') }}">Wie kann ich mithelfen?</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -126,8 +114,10 @@
               Diese Seite
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Quellcode ansehen</a>
-              <a class="dropdown-item" href="#">Bearbeiten</a>
+                <a class="dropdown-item" href="#">Bearbeiten</a>
+{%- if show_source and has_source and sourcename %}
+                <a class="dropdown-item" href="{{ pathto('_sources/' + sourcename, true)|e }}" rel="nofollow">Quellcode ansehen</a>
+{%- endif %}
             </div>
           </li>
         </ul>
@@ -141,23 +131,22 @@
 #}
       </div>
     </nav>
-{% endblock %}
-
+</div>
 {%- block content %}
-<div class="">
+<div class="container">
 {% block document %}
     <div class="documentwrapper">
         <div class="body" role="main">
-        {% block body %} {% endblock %}
+        {% block body %}{% endblock %}
         </div>
     </div>
 {% endblock %}
 <div class="clearfix"></div>
 </div>
 {%- endblock %}
-
 {%- block footer %}
-    <div class="footer" role="contentinfo">
+    <div class="footer container" role="contentinfo">
+        <hr />
     {%- if show_copyright %}
       {%- if hasdoc('copyright') %}
         {% trans path=pathto('copyright'), copyright=copyright|e %}&#169; <a href="{{ path }}">Copyright</a> {{ copyright }}.{% endtrans %}
@@ -173,6 +162,5 @@
     {%- endif %}
     </div>
 {%- endblock %}
-    </div>
   </body>
 </html>

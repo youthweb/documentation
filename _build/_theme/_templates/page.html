@@ -9,5 +9,19 @@
 #}
 {%- extends "layout.html" %}
 {% block body %}
-  {{ body }}
+{% if pagename == 'index' %}
+    <div class="card">
+        <img class="card-img" src="{{ pathto('_static/img/landing-page.jpg', 1) }}" alt="Card image">
+        <div class="card-body">
+            <h1 class="display-4">Hallo</h1>
+            <p class="lead">Willkommen in unserem neuen Support Center!</p>
+            <hr class="my-4">
+            <p>Youthweb ist ein soziales Netzwerk für junge Christen, an dem auch du mitmachen kannst.</p>
+            <p class="lead">
+                <a class="btn btn-primary btn-lg" href="{{ pathto('faq/wie-kann-ich-mithelfen') }}" role="button">Mithelfen</a>
+            </p>
+        </div>
+    </div>
+{% endif %}
+    {{ body }}
 {% endblock %}
