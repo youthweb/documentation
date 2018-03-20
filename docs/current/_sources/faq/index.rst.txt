@@ -6,3 +6,4 @@ FAQ
 
    gibt-es-eine-app
    ist-yw-kostenlos
+   wie-kann-ich-mithelfen
