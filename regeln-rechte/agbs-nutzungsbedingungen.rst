@@ -1,2 +1,107 @@
 Allgemeine Geschäftsbedingungen (AGB)
 =====================================
+
+**und Nutzungsbedingungen**
+
+youthweb.net ist ein Internetportal von Youthweb e.V., vertreten durch Artur Weigandt, Schumannweg 8, 52349 Düren.
+
+1. Wirkungsbereich
+------------------
+
+Diese Allgemeinen Geschäftsbedingungen (kurz: AGB) gelten für alle Beziehungen zwischen youthweb.net und den Kunden (nachfolgend "User" bzw. "Nutzer" genannt). Sie ersetzen die bisher geltenden Allgemeinen Geschäftsbedingungen zum Stichtag 10.11.2012.
+
+Sie beinhalten ebenfalls den Haftungsausschluss sowie die Datenschutzhinweise. youthweb.net stellt seine Leistungen unter den Bedingungen der folgenden AGB zu Verfügung. Der User stimmt bei der Anmeldung den zu diesem Zeitpunkt geltenden AGB per Deklaration zu. Spätere Änderungen der AGB bedürfen ebenfalls der Zustimmung durch den User. youthweb.net behält sich vor, bei fehlender Zustimmung durch den Nutzer dessen Daten zu löschen.
+
+
+2. Leistungen
+-------------
+
+youthweb.net bietet ein umfangreiches Angebot an Kommunikationsmöglichkeiten mit anderen Mitgliedern von youthweb.net an. Für eine fehlerhafte, verspätete oder gar eine komplett ausfallende Datenübertragung haftet youthweb.net nicht. youthweb.net behält es sich desweiteren ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Ein Anspruch auf den Erhalt der von youthweb.net zur Verfügung gestellten Leistungen sowie den auf youthweb.net gespeicherten Daten besteht nicht. Auf ausdrücklichen Wunsch des Nutzers werden dessen persönliche Daten durch youthweb.net gelöscht.
+
+
+3. Pflichten des Nutzers
+------------------------
+
+Mit der Anmeldung bei youthweb.net und der Nutzung der von youthweb.net bereitgestellten Leistungen verpflichtet sich der Nutzer (User):
+
+- doppelte Accounts bzw. doppelte Anmeldungen der gleichen Benutzer sind verboten
+- exakte, korrekte, aktuelle sowie vollständige Angaben (Vor- und Nachname, Geburtsdatum) zu seiner Person zu machen
+- seine anfangs bereitgestellten Daten regelmäßig zu aktualisieren, so dass diese immer dem aktuellen und wahrheitsgemäßen Stand entsprechen
+- durch den Betreiber für alle Nutzer veröffentlichten Hinweise, Erklärungen sowie Upload-Regeln auf youthweb.net zu lesen und zu befolgen
+- keine rechtswidrigen, belästigenden, rassistischen, gotteslästerlichen, sexuell ausgerichteten, pornographischen, anstößigen, diffamierenden, beleidigenden, unwahren, politisch extremen oder bedrohende Inhalte zu verbreiten, sowie keine Hinweise auf Inhalte dieser Art in Angeboten Dritter ("Links") weiterzugeben
+- die Kommunikationsmöglichkeiten von youthweb.net rein privat zu nutzen und jegliche Bemühungen, mit kommerzieller Intention, wie das Werben für Produkte und Dienstleistungen oder das Anpreisen bzw. Anbieten dieser, zu unterlassen
+- keine unerwünschten Handlungen vorzunehmen derselben wie Schneeball-Mails und Kettenbriefe; diese sind verboten
+- keine Daten auf youthweb.net hochzuladen oder zu verschicken, die einen Virus (infizierte Software) enthalten oder auf andere Art und Weise für die Nutzer von youthweb.net gefährlich sind
+- keine Spendenaufrufe zu tätigen
+- keinen Versuch zu unternehmen, unberechtigten Zugriff auf die Daten Dritter zu erlangen oder durch technische Einrichtungen oder sonstige Maßnahmen die Funktion von youthweb.net zu beeinträchtigen
+- wichtige Daten wie Fotos, Videos oder Nachrichten selbst zu sichern, da youthweb.net keine Haftung für den eventuellen Verlust derselben (z. B. durch eine automatische Systemreinigung oder den Ausfall des Servers) übernimmt
+
+Bei Nichtbeachtung und dem Verstoßen gegen einer der genannten Verpflichtungen kann es zu der sofortigen Löschung der Mitgliedschaft kommen. Außerdem ist im äußersten Falle eine zivil- und strafrechtliche Verfolgung möglich. Der Nutzer verpflichtet sich, bei der aus einer Pflichtverletzung resultierenden Schädigung Dritter gänzlich für den Schaden einzustehen und youthweb.net von jeglicher Haftung zu befreien.
+
+
+4. Persönliche Daten bei youthweb.net
+-------------------------------------
+
+Für Dritte einsehbar sind nur Informationen, die der User selbstständig zur öffentlichen Einsicht freigegeben hat. Diese Einstellungen können in den Dialogen "Steckbrief-Einstellungen" und "Grundeinstellungen" vorgenommen werden.
+Persönliche Daten werden bis auf den Fall einer vollständigen Veräußerung von youthweb.net durch den Betreiber nicht an Dritte weitergegeben. In einem solchen Fall werden alle gespeicherten Daten (Datenbankinhalte sowie vom User hochgeladenen Dateien) an den Erwerber übertragen, ohne dass es hierzu einer gesonderten Zustimmung durch den User bedarf.
+
+
+5. Account, Passwort und Sicherheit
+-----------------------------------
+
+Die Nutzer müssen sicherstellen, dass die Kombination von Passwort und Benutzername keinem Dritten zugänglich gemacht wird und tragen für alle Handlungen, die unter Verwendung Ihres Passwortes oder Ihres Accounts vorgenommen werden, die volle Verantwortung, dies gilt auch wenn diese Handlungen durch Dritte verursacht sind, sofern die Daten durch Ihre Mitschuld in deren Hände gelangt sind. Der Nutzer ist verpflichtet, youthweb.net unverzüglich über jede mißbräuchliche Benutzung seines Paßwortes oder Accounts sowie über jegliche sonstige Verletzung von Sicherheitsvorschriften zu unterrichten. Der Nutzer muss auch sicherstellen, daß nach jeder Nutzung sein Account verlassen durch die Logout-Funktion verlassen wird.
+
+
+6. Rechte Dritter
+-----------------
+
+Der Nutzer auf youthweb.net trägt die volle Verantwortung dafür, dass mit dem Bereitstellen von Inhalten keine Rechte Dritter, wie Urheber- und Persönlichkeitsrechte verletzt werden. Vor dem Bereitstellen von Inhalten ist der Nutzer verpflichtet, diese Inhalte darauf zu prüfen, dass durch das Einstellen Rechte Dritter nicht verletzt werden.
+
+Der Nutzer ist für alle Inhalte, die er über sein Benutzerkonto weitergibt, produziert und publiziert selbst verantwortlich. Dies gilt insbesondere für urheberrechtlich geschützte Videos, Fotos, Marken, Texte und andere Inhalte.
+
+
+7. Laufzeit der Mitgliedschaft bei youthweb.de
+----------------------------------------------
+
+Die Mitgliedschaft bei youthweb.net beginnt mit dem Zeitpunkt der Aktivierung des Benutzerkontos.
+Der Nutzer von youthweb.net ist jederzeit berechtigt, seine Mitgliedschaft bei youthweb.net ohne eine Angabe von Gründen zu beenden.
+Youthweb.net behält sich das Recht vor, die Mitgliedschaft von Nutzern, die gegen die aufgeführten Allgemeinen Geschäftsbedingungen verstoßen, ohne eine Frist zu kündigen und ihr Benutzerkonto zu löschen.
+
+
+8. Datenschutzbestimmungen
+--------------------------
+
+Datenverarbeitung auf dieser Internetseite
+youthweb.net erhebt und speichert automatisch im Server Log Files Informationen, die der Browser an uns übermittelt. Dies sind:
+
+- Browsertyp und -version
+- verwendetes Betriebssystem
+- Referrer-URL (die zuvor besuchte Seite)
+- Hostname des zugreifenden Rechners (IP Adresse)
+- Uhrzeit der Serveranfrage.
+
+Diese Daten sind durch youthweb.net nicht bestimmten Nutzern zuzuordnen. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+
+Google Analytics
+Diese Website nutzt Google Analytics, einen Webanalysedienst der Google Inc. ("Google").
+
+Google Analytics verwendet sog. "Cookies", Textdateien, die auf dem Computer des Users gespeichert werden und die eine Analyse der Benutzung der Website durch den User ermöglichen. Die durch den Cookie erzeugten Informationen über die Benutzung dieser Website (einschließlich der IP-Adresse) wird an einen Server der Google Inc. in den USA übertragen und dort gespeichert. Google wird diese Informationen benutzen, um die Nutzung der Website durch den User auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundenen Dienstleistungen zu erbringen.
+
+Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google Inc. verarbeiten. Google wird in keinem Fall die IP-Adresse des USers mit anderen Daten der Google in Verbindung bringen. Eine Haftung dafür übernehmen wir nicht.
+
+Der User kann die Installation der Cookies durch eine entsprechende Einstellung der Browser Software verhindern; wir weisen ihn jedoch darauf hin, dass er in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website voll umfänglich nutzen kann. Durch die Nutzung dieser Website erklärt der User sich mit der Bearbeitung der über ihn erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.
+
+Auskunftsrecht
+Auf Wunsch kann jeder User jederzeit erfragen, welche Daten über ihn gespeichert sind. Außerdem hat er ein Recht auf Berichtigung unrichtiger Daten sowie unter bestimmten Voraussetzungen ein Recht auf Sperrung oder Löschung der Daten. Falls der User eines dieser Rechte wahrnehmen möchte, teilt er/sie uns dies bitte schriftlich mit. Eine Mail diesbezüglich würde bereits ausreichen.
+
+
+9. Haftungsausschluss
+---------------------
+
+Die Webseite enthält Links zu Webseiten Dritter, auf deren Inhalte der Dienstanbieter keinen Einfluss hat. Deshalb kann für diese fremden Inhalte auch keine Gewähr übernommen werden. Für jene Inhalte ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Zum Zeitpunkt der Verlinkung wurden die jeweiligen Seiten auf mögliche Rechtsverstöße überprüft. Diese Prüfung ergab, dass rechtswidrige Inhalte zu jenem Zeitpunkt nicht erkennbar waren. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung unzumutbar. Erlangen wir Kenntnis von rechtswidrigen Links, werden diese umgehend entfernt.
+
+Als Dienstanbieter ist das Unternehmen gemäß § 7 Abs.1 TMG für die eigenen Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Gemäß §§ 8 bis 10 TMG ist ein Dienstanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Sollte einem Nutzer eine solche Rechtsverletzung bekannt sein, bitten wir um eine unverzügliche Mitteilung. Die entsprechenden Inhalte werden dann umgehend entfernt.
+
+*Rechtswirksamkeit dieses Haftungsausschlusses*
+
+Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
