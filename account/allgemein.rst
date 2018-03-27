@@ -1,8 +1,10 @@
-Wo kann ich meinen Youthweb-Account löschen?
-============================================
+Allgemeine Hilfe zu deinem Nutzerkonto
+======================================
 
-.. toctree::
-   :maxdepth: 2
+.. _delete-account:
+
+Wie kann ich meinen Youthweb-Account löschen?
+---------------------------------------------
 
 Unter Einstellungen -> Account findest du unten die Möglichkeit, deinen Youthweb-Account löschen zu lassen.
 

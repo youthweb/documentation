@@ -1,7 +1,4 @@
-.. Support Center documentation master file, created by
-   sphinx-quickstart on Wed Feb 21 16:02:27 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _contents:
 
 Youthweb Support Center
 =======================
@@ -10,6 +7,7 @@ Youthweb Support Center
    :maxdepth: 2
    :glob:
 
+   account/index
    faq/index
    regeln-rechte/*
    about/*
