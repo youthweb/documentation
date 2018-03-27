@@ -9,4 +9,3 @@ FAQ
    wie-kann-ich-mithelfen
    ist-yw-eine-singleboerse
    text-formatierungen
-   wie-loesche-ich-meinen-account

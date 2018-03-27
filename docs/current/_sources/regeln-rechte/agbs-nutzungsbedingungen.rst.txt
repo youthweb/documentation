@@ -1,3 +1,5 @@
+.. _agb:
+
 Allgemeine Geschäftsbedingungen (AGB)
 =====================================
 

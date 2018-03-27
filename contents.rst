@@ -11,3 +11,4 @@ Youthweb Support Center
    faq/index
    regeln-rechte/*
    about/*
+   frage-stellen
