@@ -116,9 +116,14 @@
               Diese Seite
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Bearbeiten</a>
+{%- if edit_on_github_url %}
+                <a class="dropdown-item" href="{{ edit_on_github_url }}" rel="nofollow">{{ _('Auf GitHub bearbeiten') }}</a>
+{%- endif %}
+{%- if show_on_github_url %}
+                <a class="dropdown-item" href="{{ show_on_github_url }}" rel="nofollow">{{ _('Auf GitHub ansehen') }}</a>
+{%- endif %}
 {%- if show_source and has_source and sourcename %}
-                <a class="dropdown-item" href="{{ pathto('_sources/' + sourcename, true)|e }}" rel="nofollow">Quellcode ansehen</a>
+                <a class="dropdown-item" href="{{ pathto('_sources/' + sourcename, true)|e }}" rel="nofollow">{{ _('Quellcode ansehen') }}</a>
 {%- endif %}
             </div>
           </li>
