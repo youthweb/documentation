@@ -1,7 +1,7 @@
 .. _contents:
 
-Youthweb Support Center
-=======================
+Sitemap
+=======
 
 .. toctree::
    :maxdepth: 2
