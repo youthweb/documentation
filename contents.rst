@@ -5,10 +5,9 @@ Youthweb Support Center
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
+   about/index
    account/index
+   regeln-rechte/index
    faq/index
-   regeln-rechte/*
-   about/*
    frage-stellen

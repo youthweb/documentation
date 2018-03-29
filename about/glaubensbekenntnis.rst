@@ -1,5 +1,5 @@
-Glaubensbekenntnis
-==================
+Unser Glaubensbekenntnis
+========================
 
 Wir, das Team von Youthweb, bekennen uns zu der in den Schriften des Alten und Neuen Testaments gegebenen Offenbarung des dreieinigen Gottes und zu dem im Evangelium niedergelegten geschichtlichen Glauben. Wir heben folgende Lehrsätze hervor, die wir als grundlegend für das Verständnis des Glaubens ansehen und die gegenseitige Liebe, praktischen Dienst der Christen und evangelistischen Einsatz bewirken sollen:
 
