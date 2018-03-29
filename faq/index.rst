@@ -1,8 +1,8 @@
-FAQ
-===
+Häufig gestellte Fragen
+=======================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    gibt-es-eine-app
    ist-yw-kostenlos
