@@ -6,7 +6,8 @@ Ist Youthweb eine Singlebörse?
 
 **Nein!**
 
-Klartext: **Wir löschen alle Accounts, die Youthweb als Singlebörse missbrauchen.**
+.. warning::
+   Wir löschen alle Accounts, die Youthweb als Singlebörse missbrauchen.
 
 Wenn du auf der Suche nach deinem Traumpartner bist, dann ist Youthweb nicht der richtige Ort für dich. Am besten `bemühst du eine Suchmaschine <http://lmgtfy.com/?q=christliche+singles>`_, um zu finden, was du suchst.
 

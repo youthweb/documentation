@@ -1,3 +1,45 @@
-.header-full-title img {
-    max-height: 60px;
+.admonition {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+
+.admonition .admonition-title {
+    font-weight: bold;
+}
+
+.admonition .last {
+    margin-bottom: none;
+}
+
+.note {
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+}
+
+.note a {
+    color: #002752;
+}
+
+.warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+.warning a {
+    color: #533f03;
+}
+
+.seealso {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+
+.seealso a {
+    color: #062c33;
 }
