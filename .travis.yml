@@ -1,0 +1,18 @@
+language: python
+
+python:
+  - 3.5
+
+install:
+  - pip install sphinx
+
+script: make html -C _build/
+
+after_success:
+  - 'if [[ "$TRAVIS_BRANCH" == "master" && "$TRAVIS_PULL_REQUEST" == "false" ]]; then
+        DOCS_VERSION=current
+        ./build.sh;
+    elif [[ "$TRAVIS_BRANCH" == "develop" && "$TRAVIS_PULL_REQUEST" == "false" ]]; then
+        DOCS_VERSION=latest
+        ./build.sh;
+    fi'
