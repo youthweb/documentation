@@ -16,8 +16,25 @@
 {%- else %}
   {%- set titlesuffix = "" %}
 {%- endif %}
+{%- macro breadcrumbsbar() %}
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+        {%- block rootrellink %}
+        {% if pagename != 'index' %}
+        <li class="breadcrumb-item"><a href="{{ pathto(master_doc) }}">{{ shorttitle|e }}</a></li>
+        {%- endif %}
+        {%- endblock %}
+        {%- for parent in parents %}
+        <li class="breadcrumb-item"><a href="{{ parent.link|e }}" {% if loop.last %}{{ accesskey("U") }}{% endif %}>{{ parent.title }}</a>{{ reldelim1 }}</li>
+        {%- endfor %}
+        {%- block relbaritems %}
+        <li class="breadcrumb-item active">{{ title|striptags|e }}</li>
+        {% endblock %}
+    </ol>
+</nav>
+{%- endmacro %}
 <!doctype html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="{{ encoding }}" />
     {{- metatags }}
@@ -142,6 +159,7 @@
 <div class="container">
 {% block document %}
     <div class="documentwrapper">
+{%- block relbar1 %}{{ breadcrumbsbar() }}{% endblock %}
         <div class="body" role="main">
         {% block body %}{% endblock %}
         </div>
