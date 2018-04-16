@@ -49,7 +49,7 @@ So sieht's aus:
 Videos
 ------
 
-Es können Videos aus Youtube oder Vimeo eingebettet werden. Dazu muss der folgende Code benutzt werden:::
+Es können Videos aus Youtube oder Vimeo eingebettet werden. Dazu muss der folgende Code benutzt werden::
 
     [v]https://youtu.be/mtUVJiDsFvQ[/v]
 
@@ -62,6 +62,6 @@ Bilder
 
 Wichtig: Bitte beachte unsere Bilderrichtlinien.
 
-Um Bilder, die irgendwo, z.B. auf eurer eigenen Homepage liegen, anzeigen zu lassen, musst du ihren Speicherort kennen. Da reicht es nicht nur die Homepage anzugeben. z.B. www.youthweb.net, sondern du muss die genau Adresse kennen. z.B. support.youthweb.net/fileadmin/user_upload/IMG_1796.jpg und so kann man das Bild dann anzeigen lassen:::
+Um Bilder, die irgendwo, z.B. auf eurer eigenen Homepage liegen, anzeigen zu lassen, musst du ihren Speicherort kennen. Da reicht es nicht nur die Homepage anzugeben. z.B. www.youthweb.net, sondern du muss die genau Adresse kennen. z.B. https://support.youthweb.net/fileadmin/user_upload/IMG_1796.jpg und so kann man das Bild dann anzeigen lassen::
 
     [img]https://support.youthweb.net/fileadmin/user_upload/IMG_1796.jpg[/img]
